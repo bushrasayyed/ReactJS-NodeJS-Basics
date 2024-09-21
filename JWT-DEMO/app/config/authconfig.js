@@ -1,4 +1,4 @@
 modules.exports={
-    secret:"random-abeda-code",
+    secret:"randomdemocode",
     
 }
